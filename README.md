@@ -1,2 +1,2 @@
 # frontendprojects
-front end projects using html,css
+Frontend Projects Using HTML,CSS
