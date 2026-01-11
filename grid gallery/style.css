@@ -1,0 +1,12 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(180, 219, 206);
+}
+.page-header{
+    text-align: center;
+    padding:2rem;
+}
